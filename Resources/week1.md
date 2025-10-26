@@ -1,6 +1,6 @@
-# Week 43 - Resources
+# Week 44 - Resources
 
-[Back to main page :house:](https://github.com/pr0fez/AI24-Databehandling)
+[Back to main page :house:](https://github.com/pr0fez/AI25-Databehandling)
 
 ## Setup :wrench:
 
@@ -35,9 +35,9 @@
 
 ## Lecture notes :book:
 
-- [Pandas basics](https://github.com/pr0fez/AI24-Databehandling/blob/main/Lectures/L0-pandas-basics.ipynb)
-- [Missing data & aggregations](https://github.com/pr0fez/AI24-Databehandling/blob/main/Lectures/L1-missing-aggregation.ipynb)
-- [Plotly](https://github.com/pr0fez/AI24-Databehandling/blob/main/Lectures/L2-plotly-express.ipynb)
+- [Pandas basics](https://github.com/pr0fez/AI25-Databehandling/blob/main/Lectures/L0-pandas-basics.ipynb)
+- [Missing data & aggregations](https://github.com/pr0fez/AI25-Databehandling/blob/main/Lectures/L1-missing-aggregation.ipynb)
+- [Plotly](https://github.com/pr0fez/AI25-Databehandling/blob/main/Lectures/L2-plotly-express.ipynb)
 
 ## Theory :book:
 
@@ -59,4 +59,4 @@
 
 ## Exercises :running:
 
-- [Basic syntax exercises](https://github.com/pr0fez/AI24-Databehandling/blob/main/Exercises/00_pandas_basic_syntax.ipynb)
+- [Basic syntax exercises](https://github.com/pr0fez/AI25-Databehandling/blob/main/Exercises/00_pandas_basic_syntax.ipynb)

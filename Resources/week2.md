@@ -1,6 +1,6 @@
-# Week 44 - Resources
+# Week 45 - Resources
 
-[Back to main page :house:](https://github.com/pr0fez/AI24-Databehandling)
+[Back to main page :house:](https://github.com/pr0fez/AI25-Databehandling)
 
 ## Setup :wrench:
 
@@ -29,8 +29,8 @@
 
 ## Lecture notes :book:
 
-- [Lec notes - merging](https://github.com/pr0fez/AI24-Databehandling/blob/main/Lectures/L3-merge.ipynb)
+- [Lec notes - merging](https://github.com/pr0fez/AI25-Databehandling/blob/main/Lectures/L3-merge.ipynb)
 
 ## Exercises :running:
 
-- [exercise merging](https://github.com/pr0fez/AI24-Databehandling/blob/main/Exercises/E02_merging.ipynb)
+- [exercise merging](https://github.com/pr0fez/AI25-Databehandling/blob/main/Exercises/E02_merging.ipynb)

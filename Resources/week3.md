@@ -1,6 +1,6 @@
-# Week 45 - Resources
+# Week 46 - Resources
 
-[Back to main page :house:](https://github.com/pr0fez/AI24-Databehandling)
+[Back to main page :house:](https://github.com/pr0fez/AI25-Databehandling)
 
 ## Setup
 
@@ -22,10 +22,10 @@ pip install requests
 [pandas_vid_formats]: https://www.youtube.com/watch?v=N6hyN6BW6ao&list=RDCMUCCezIgC97PvUuR4_gbFUs5g&index=11
 
 ## Lecture notes :book:
-- [Datetime](https://github.com/pr0fez/AI24-Databehandling/blob/main/Lectures/L4-datetime.ipynb)
-- [API](https://github.com/pr0fez/AI24-Databehandling/blob/main/Lectures/L4.1-api-stocks.ipynb)
-- [Dashboard with api](https://github.com/pr0fez/AI24-Databehandling/tree/main/Lectures/L5-stock-dashboard/L5.1)
-- [Dashboard local files](https://github.com/pr0fez/AI24-Databehandling/tree/main/Lectures/L5-stock-dashboard/L5.2)
+- [Datetime](https://github.com/pr0fez/AI25-Databehandling/blob/main/Lectures/L4-datetime.ipynb)
+- [API](https://github.com/pr0fez/AI25-Databehandling/blob/main/Lectures/L4.1-api-stocks.ipynb)
+- [Dashboard with api](https://github.com/pr0fez/AI25-Databehandling/tree/main/Lectures/L5-stock-dashboard/L5.1)
+- [Dashboard local files](https://github.com/pr0fez/AI25-Databehandling/tree/main/Lectures/L5-stock-dashboard/L5.2)
 
 ## Theory :book:
 
