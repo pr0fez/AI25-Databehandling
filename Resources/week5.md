@@ -1,6 +1,6 @@
-# Week 47 - Resources
+# Week 48 - Resources
 
-[Back to main page :house:](https://github.com/pr0fez/AI24-Databehandling)
+[Back to main page :house:](https://github.com/pr0fez/AI25-Databehandling)
 
 ## Setup
 

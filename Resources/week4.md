@@ -4,9 +4,9 @@
 
 ## Setup :wrench:
 ```py
-pipenv install dash-bootstrap-components
-pipenv install numexpr
-pipenv install bottleneck
+pip install dash-bootstrap-components
+pip install numexpr
+pip install bottleneck
 ```
 
 ## Video guides :video_camera:

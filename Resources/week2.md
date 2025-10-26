@@ -6,9 +6,9 @@
 
 1. Install **plotly**, **plotly_express**, **nbformat** in this pipenv:
    ```python
-   pipenv install plotly
-   pipenv install plotly_express
-   pipenv install nbformat
+   pip install plotly
+   pip install plotly_express
+   pip install nbformat
    ```
 
 ## Video guides :video_camera:

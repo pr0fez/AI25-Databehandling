@@ -5,9 +5,9 @@
 ## Setup
 
 ```py
-pipenv install dash
-pipenv install python-dotenv
-pipenv install requests
+pip install dash
+pip install python-dotenv
+pip install requests
 ```
 
 ## Video guides :video_camera:
