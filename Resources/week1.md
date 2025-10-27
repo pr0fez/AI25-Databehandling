@@ -59,4 +59,4 @@
 
 ## Exercises :running:
 
-- [Basic syntax exercises](https://github.com/pr0fez/AI25-Databehandling/blob/main/Exercises/00_pandas_basic_syntax.ipynb)
+- [Basic syntax exercises](https://github.com/pr0fez/AI25-Databehandling/blob/main/Exercises/E00_pandas_basic_syntax.ipynb)
