@@ -14,9 +14,9 @@ This is a course with focus of learning concepts in data analysis. All lecture c
 |    Week     | Content                                                                              |
 | :---------: | ------------------------------------------------------------------------------------ |
 | [44][week1] | series, dataframe, missing data, selection, filtering, aggregate, groupby, seaborn   |
-| [45][week2] | merge, concatenate, join, sort, apply, strings, plotly express, KPI **lab 1**        |
-| [46][week3] | dates, git branches, dash, high performance, pipe, anonymize, **lab 1**, **project** |
-| [47][week4] | GDPR, datavisualisation UX, callbacks, bootstrap, deployment **project**             |
+| [45][week2] | merge, concatenate, join, sort, apply, strings, plotly express **lab 1**        |
+| [46][week3] | GDPR, KPI, dates, git branches, dash, pipe, anonymize, **lab 1**, **project** |
+| [47][week4] | high performance, callbacks, bootstrap, deployment **project**             |
 | [48][week5] | **project**, **seminar**                                                             |
 
 [week1]: https://github.com/pr0fez/AI25-Databehandling/blob/main/Resources/week1.md
